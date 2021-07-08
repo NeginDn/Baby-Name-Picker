@@ -43,6 +43,8 @@ const App = () => {
   };
   return (
     <div className="App">
+      <h1>Baby-lon</h1>
+      <h2>The best BabyName search engine!</h2>
       <Search searchInput={searchInput} setSearchInput={setSearchInput} />
       <br />
       <ChooseSexButton handleButton={handleButton} sex={"f"} />
