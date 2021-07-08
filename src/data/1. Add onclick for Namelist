@@ -1,0 +1,3 @@
+1. Add onclick for Namelist
+2. set the favourite property of the name we clicked on to false
+3. rerender it by updating state(update it set sortedNames)

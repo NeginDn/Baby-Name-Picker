@@ -1,0 +1,30 @@
+li {
+  list-style: none;
+}
+.name-card {
+  padding: 0.5rem;
+  margin: 0.5rem;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.boy-name {
+  width: 6rem;
+  background-color: #3951aa;
+  color: #45f0df;
+}
+
+.girl-name {
+  width: 6rem;
+  background-color: #45f0df;
+  color: #3951aa;
+}
+
+.our-name {
+  box-shadow: 3px 3px 5px rgb(6, 21, 60);
+  width: 15%;
+  background-color: #00ff95;
+  font-size: larger;
+  font-weight: 500;
+  color: #2477c0;
+}
